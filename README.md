@@ -27,9 +27,12 @@
 
 💻 Aplicação usada para criação deste plano de teste:
 ➡️  https://www.saucedemo.com/
-  
 
 
   
+
+
+  [Plano de Testes.pdf](https://github.com/user-attachments/files/18470301/Plano.de.Testes.pdf)
+
 
 
